@@ -38,7 +38,7 @@ section{
    
 }
 #menu{
-    background-color: rgb(71, 93, 60);
+    background-color: rgb(255, 255, 255);
     color: rgb(9, 9, 10);
     margin: auto auto auto auto;
 
@@ -55,4 +55,13 @@ section{
     width: 10;
     height:auto;
     margin: auto auto auto auto;
+}
+
+#fondo{
+    margin: auto;
+    
+}
+#menu h2{
+    text-align: center;
+    color: black;
 }
