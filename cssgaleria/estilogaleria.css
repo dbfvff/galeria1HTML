@@ -1,24 +1,48 @@
+*   {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin: auto auto auto auto;
+}
 body{
+    background-color: rgb(71, 93, 60);
+    margin: auto auto auto auto;
+}
+main{
+    width: 50vw;
+    height: 50vw;
     background-color: rgb(89, 136, 104);
+    margin: auto auto auto auto;
+
+}
+section{
+    width: 10;
+    height: 80;
+    right: 30;
+    border: 1px solid rgb(7, 1, 13);
+    background-color: azure;
 }
 #galeria1{
     background-color: rgb(55, 133, 18);
     border: 1px solid rgb(7, 1, 13);
-    margin: auto;
-    color: rgb(9, 9, 10);
-    padding: auto;
+    color: rgb(9, 9, 10)
 }
 #menu{
     background-color: rgb(71, 93, 60);
     color: rgb(9, 9, 10);
+    margin: auto auto auto auto;
+
 }
 #fin{
     background-color: rgb(24, 65, 5);
     color: rgb(9, 9, 10);
-}
-#login1{
-    background-color: green;
+    border: 1px solid rgb(7, 1, 13);
+    margin: auto auto auto auto;
 }
 #registro1{
-    background-color: aqua;
+    background-color: rgb(158, 177, 158);
+    border: 1px solid rgb(7, 1, 13);
+    width: 10;
+    height:auto;
+    margin: auto auto auto auto;
 }
