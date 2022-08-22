@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(89, 136, 104);
+}
+#galeria1{
+    background-color: rgb(55, 133, 18);
+    border: 1px solid rgb(7, 1, 13);
+    margin: auto;
+    color: rgb(9, 9, 10);
+    padding: auto;
+}
+#menu{
+    background-color: rgb(71, 93, 60);
+    color: rgb(9, 9, 10);
+}
+#fin{
+    background-color: rgb(24, 65, 5);
+    color: rgb(9, 9, 10);
+}
+#login1{
+    background-color: green;
+}
