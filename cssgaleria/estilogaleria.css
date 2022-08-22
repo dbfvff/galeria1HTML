@@ -26,6 +26,16 @@ section{
     background-color: rgb(55, 133, 18);
     border: 1px solid rgb(7, 1, 13);
     color: rgb(9, 9, 10)
+    
+}
+#menu h3 span{
+    background: saddlebrown;
+    color: aliceblue;
+    border-radius: 50%;
+    text-align: center;
+    padding: 3px;
+
+   
 }
 #menu{
     background-color: rgb(71, 93, 60);
